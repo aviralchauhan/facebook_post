@@ -1,0 +1,10 @@
+body {
+    background-color:white;
+  }
+  
+  .gifs {
+    max-width: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
