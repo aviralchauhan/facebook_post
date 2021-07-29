@@ -5,7 +5,7 @@ function Header() {
         <NavMenu>
         <Nav>
                <a> 
-                 <img src="/images/icon-1.png" />
+                 <img src="../images/icon-1.png" />
                  <span>Compose Post</span>
                  <span>|</span>
 
