@@ -5,18 +5,18 @@ function Header() {
         <NavMenu>
         <Nav>
                <a> 
-                 <img src=".../images/icon-1.png" />
+                 <img src="/facebook_post/images/icon-1.png" />
                  <span>Compose Post</span>
                  <span>|</span>
 
                </a>
                <a>
-                <img src="/images/icon-2.png" />
+                <img src="/facebook_post/images/icon-2.png" />
                  <span>Photo/Video Albums</span>
                  <span>|</span>
                </a>
                <a>
-                <img src="/images/icon-3.png" />
+                <img src="/facebook_post/images/icon-3.png" />
                  <span>Live Video</span>
                  
                </a>
