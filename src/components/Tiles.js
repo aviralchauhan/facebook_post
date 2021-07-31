@@ -12,19 +12,19 @@ function Tiles() {
         <Container>
             <Controls>
                 <TagButton>
-                    <img src="/images/user.png"/> 
+                    <img src="/facebook_post/images/user.png"/> 
                     <span>Tag friend</span>
                 </TagButton>
                 <CheckInButton>
-                    <img src="/images/check.png"/> 
+                    <img src="/facebook_post/images/check.png"/> 
                     <span>Check In</span>
                 </CheckInButton>
                 <GifButton onClick={handleGif}>
-                     <img src="/images/gif.png"/> 
+                     <img src="/facebook_post/images/gif.png"/> 
                      <span>GIF</span>
                 </GifButton>
                 <EventButton>
-                    <img src="/images/event.png"/>
+                    <img src="/facebook_post/images/event.png"/>
                     <span>Tag Events</span>
                 </EventButton>
                 
