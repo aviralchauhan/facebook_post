@@ -4,7 +4,7 @@ function Footer() {
     return (
         <Container>
             <Button>Only me
-            <img src="/images/down-arrow.png" />
+            <img src="/facebook_post/images/down-arrow.png" />
             </Button>
             <Button id="post">Post</Button>
         </Container>
