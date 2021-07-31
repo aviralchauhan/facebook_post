@@ -2,9 +2,11 @@ body {
     background-color:white;
   }
   
-  .gifs {
-    max-width: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    
+   .gifs {
+    max-width: 150px;
+    float:left;
+    margin: 2px;
+  }
+  .gifs img{
+    width: 100%;
   }
