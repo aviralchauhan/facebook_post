@@ -6,7 +6,7 @@ function Footer() {
             <Button>Only me
             <img src="/facebook_post/images/down-arrow.png" />
             </Button>
-            <Button id="post"     background-color= "skyblue";>Post</Button>
+            <Button id="post"     background-color= "skyblue">Post</Button>
         </Container>
     )
 }
