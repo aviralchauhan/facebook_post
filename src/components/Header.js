@@ -23,7 +23,7 @@ function Header() {
                  
         </Nav>
               <Close>
-               <img src="/images/close.png" />
+               <img src="/facebook_post/images/close.png" />
                </Close>
     </NavMenu>
     )
